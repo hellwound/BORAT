@@ -9,3 +9,6 @@
 # How To Use:
   1. Download the zip archive and extract it.
   2. Run the file and then enjoy.
+
+# Password:
+     Root@1234@#@#
